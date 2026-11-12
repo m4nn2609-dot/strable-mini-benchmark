@@ -1,0 +1,3 @@
+task,pipeline,mean_score,mean_time_per_1k,n
+multiclass,tablevec_hgb,0.695174678463118,2.476057308470336,3
+regression,tablevec_hgb,0.6195913648928849,0.8408305262673477,9
